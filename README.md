@@ -29,7 +29,7 @@ I am a self-motivated undergraduate with a strong interest in machine learning, 
 
 ## Professional Experience  
 
-### WEVIOO: Machine Learning Intern  
+### [WEVIOO: Machine Learning Intern](https://github.com/mayssagritli/Traffic-Sign-and-Violation-Detection)  
 *July 2024 – August 2024*  
 - Developed a real-time Traffic Law Enforcement System using YOLOv8 for traffic sign and violation detection  
 - Fine-tuned the YOLOv8 model on a custom traffic sign dataset  
@@ -47,7 +47,7 @@ I am a self-motivated undergraduate with a strong interest in machine learning, 
 
 ## Projects  
 
-### [PFE-HUB](https://github.com/mayssa-gritli/PFE-HUB)  
+### [PFE-HUB](https://github.com/mayssagritli/PFE-HUB)  
 *April 2024 – May 2024*  
 - Created a website to manage end-of-study projects within a university  
 - Learned front-end development with HTML and CSS, building a user-friendly interface  
